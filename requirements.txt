@@ -6,6 +6,10 @@ langchain-core
 langchain-openai
 openai
 
+# Hugging Face Integration
+langchain-huggingface
+
+
 
 # Environment Variable Management
 python-dotenv
