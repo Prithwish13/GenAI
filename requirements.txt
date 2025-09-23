@@ -1,22 +1,13 @@
-# LangChain Core
-langchain
-langchain-core
-
-# OpenAI Integration
-langchain-openai
-openai
-
-# Hugging Face Integration
-langchain-huggingface
-
-
-
-# Environment Variable Management
-python-dotenv
-
-# Machine Learning Utilities
-# numpy
-# scikit-learn% 
-
-# ui
-streamlit
+annotated-types==0.7.0
+certifi==2025.8.3
+charset-normalizer==3.4.3
+idna==3.10
+pydantic==2.11.9
+pydantic_core==2.33.2
+python-dotenv==1.1.1
+regex==2025.9.18
+requests==2.32.5
+tiktoken==0.11.0
+typing-inspection==0.4.1
+typing_extensions==4.15.0
+urllib3==2.5.0
