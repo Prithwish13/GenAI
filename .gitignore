@@ -2,6 +2,7 @@
 venv/
 */venv/
 **/venv/
+udemy-genai-python-main/
 
 # Ignore any .env file or directory at any level
 .env
