@@ -8,3 +8,6 @@ udemy-genai-python-main/
 .env
 */.env
 **/.env
+
+*/credentials/
+**/credentials/
