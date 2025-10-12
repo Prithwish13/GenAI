@@ -22,7 +22,7 @@ prompt1 = PromptTemplate(
 )
 
 prompt2 = PromptTemplate(
-    template="generate 5 short 5 short question answers from the following text \n {text}",
+    template="generate 5 short question answers from the following text \n {text}",
     input_variables=["text"],
 )
 
