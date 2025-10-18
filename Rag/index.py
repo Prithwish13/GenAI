@@ -9,7 +9,7 @@ load_dotenv()
 
 
 # Define the path
-pdf_path = Path(__file__).parent / "nodejs.pdf"
+pdf_path = Path(__file__).parent / "PRITHWISH DEY.pdf"
 
 # Load the file
 loader = PyPDFLoader(str(pdf_path))
